@@ -17,8 +17,6 @@
 
 - 📄 Know about my experiences [I am a junior Python programmer](I am a junior Python programmer)
 
-- ⚡ Fun fact **I can move my ears a little bit**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yusuf-ökmen-460074311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yusuf-ökmen-460074311" height="30" width="40" /></a>
