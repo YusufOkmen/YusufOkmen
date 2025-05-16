@@ -1,4 +1,4 @@
-[![MasterHead](https://flow.org/img/featurette-faster.gif)](https://YusufOkmen.io)
+
 <h1 align="center">Hi 👋, I'm Yusuf Okmen</h1>
 <h3 align="center">A passionate developer from Turkiye</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
