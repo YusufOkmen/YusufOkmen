@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yusufokmen&label=Profile%20views&color=0e75b6&style=flat" alt="yusufokmen" /> </p>
 
-- 🔭 I’m currently working on **C programming language"**
+- 🔭 I’m currently working on **data science**
 
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **Python and python's modules**
 
 - 🤝 I’m looking for help with **open codes**
 
