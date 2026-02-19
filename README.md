@@ -7,8 +7,6 @@
 
 - I love developing **meaningful** thing for me and others. Creating **useful applications** is my favourite hobbie in techno world!
 
-- 🤝 I’m looking for help with **open codes**
-
 - 📫 How to reach me **yusufokkmen@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
